@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div[@class = \"locs-info\"]//h2",
+    "addressLink": "//div[@class=\"addrstxt\"]//a",
+    "url": "https://thecentertx.com/locations/", 
+    "websiteName": "The Centertx",
+    "locationsList": "//div[@class = \"locss-hold\"]//a"
+}

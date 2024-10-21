@@ -1,0 +1,8 @@
+{
+    "clinicName": "//div[@id=\"wpsl-stores\"]//ul//li//div//p//strong/a",
+    "addressLink": "",
+    "addressMapsLink": "//a[@class=\"btn1\"]",
+    "url": "https://www.universitycancer.com/locations/",
+    "websiteName": "University Cancer",
+    "locationsList": "//div[@id=\"wpsl-stores\"]//ul//li//div//p//strong/a"
+}

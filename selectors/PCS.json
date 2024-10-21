@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div[@class=\"col-lg-6\"]//strong//a",
+    "addressLink": "//div[@class=\"col-lg-6\"]//div//div//p//a",
+    "url": "https://pcsri.com/locations",
+    "websiteName": "Pennsylvania Cancer Specialists",
+    "locationsList": "//div[@class=\"col-lg-6\"]//strong//a"
+}

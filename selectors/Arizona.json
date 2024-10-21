@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div[@class = \"page-title\"]//h1//span",
+    "addressLink": "//div[@class = \"card-body\"]//p//a",
+    "url": "https://www.arizonabloodandcancerspecialists.com/locations",
+    "websiteName": "Arizona Blood and Cancer Specialists",
+    "locationsList": "//div[@class = \"row m-t-20\"]//div//strong//a"
+}

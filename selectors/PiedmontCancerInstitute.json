@@ -1,0 +1,8 @@
+{
+    "clinicName": "//div[@id=\"content\"]/h2/a",
+    "addressLink": "//*[@id=\"content\"]/p[2]",
+    "addressMapsLink": "//div[@class='bottom-actions']//div[@class='google-maps-link']//a[@href]",
+    "url": "https://www.piedmontcancerinstitute.com/atlanta-area-oncology-offices.php",
+    "websiteName": "Piedmont Cancer Institute",
+    "locationsList": "//div[@id=\"content\"]/h2/a"
+}

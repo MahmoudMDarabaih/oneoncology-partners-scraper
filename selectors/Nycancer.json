@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div[@class = \"page-title\"]//h1/span",
+    "addressLink": "//div[@class = \"card\"]//div[@class = \"card-body\"]//p//a",
+    "url":"https://nycancer.com/locations",
+    "websiteName": "nycancer",
+    "locationsList": "//div[@class = \"col-lg-6\"]//h4//strong/a"
+}

@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div[@class = \"dmNewParagraph\"]//h1//span[@m-font-size-set=\"true\"]",
+    "addressLink": "(//div[contains(@class, 'u_') and contains(@class, 'dmNewParagraph')]//p//a[contains(@href, 'https://')])[position()<=2]",
+    "url": "https://www.lacancernetwork.com/locations",
+    "websiteName": "Los Angeles Cancer Network",
+    "locationsList": "//div[@class = \"dmRespColsWrapper\"]//div//div//h2//a"
+}

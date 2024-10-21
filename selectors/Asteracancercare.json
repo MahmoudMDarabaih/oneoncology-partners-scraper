@@ -1,0 +1,7 @@
+{
+    "clinicName": "//div//h1//span[@style = \"color:navy;\"]",
+    "addressLink": "//p[@style=\"padding-left:20px;\"]//a",
+    "url": "https://asteracancercare.org/locations",
+    "websiteName": "Astera Cancer Care",
+    "locationsList": "//div[@class= \"col-lg-6\"]//address//strong//a"
+}

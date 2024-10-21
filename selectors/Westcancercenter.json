@@ -1,0 +1,8 @@
+{
+    "clinicName": "div.methodist-university",
+    "doctorName": "h1.firstname-lastname",
+    "addressLink": "div.team-address",
+    "url":"https://westcancercenter.org/find-a-doctor/",
+    "websiteName": "Westcancercenter",
+    "locationsList": ".doctor-inner"
+}

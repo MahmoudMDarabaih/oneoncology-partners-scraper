@@ -1,0 +1,14 @@
+{
+    "clinicName": "h1.geodir-page-title",
+    "clinicLocation": ".clinic-location",
+    "websiteName": "tnoncology",
+    "url": "https://tnoncology.com/locations/",
+    "locationsList": ".carousel-item.active",
+    "addressLink": "a[title=\"View on map\"]",
+    "streetAddress": "a[title=\"View on map\"] span[itemprop=\"streetAddress\"]",
+    "addressLocality": "a[title=\"View on map\"] span[itemprop=\"addressLocality\"]",
+    "addressRegion": "a[title=\"View on map\"] span[itemprop=\"addressRegion\"]",
+    "postalCode": "a[title=\"View on map\"] span[itemprop=\"postalCode\"]",
+    "doctorName": "h3.geodir-entry-title a",
+    "phoneNumber": "//div[contains(@class, 'geodir-field-phone')]//a"
+}
